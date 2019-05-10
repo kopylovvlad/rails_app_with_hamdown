@@ -1,0 +1,27 @@
+%div
+  #### Firstly, we can use images
+
+  %div
+
+    If you want to embed images, this is how you do it:
+
+    ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+  #### Secondary, we can use links
+
+  %div
+    http://github.com - automatic!
+    [GitHub](http://github.com)
+
+  #### And! Blockquotes
+
+  As Kanye West said:
+
+  > We're living the future so
+  > the present is our past.
+
+
+  #### And, inline code :)
+  I think you should use an
+  `<addr>` element here instead.

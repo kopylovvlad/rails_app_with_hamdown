@@ -1,0 +1,24 @@
+.col-lg-8.col-md-10.mx-auto
+  .post-preview
+    %a{:href => "#"}
+      ## Man must explore, and this is exploration at its greatest
+
+    ### Problems look mighty small from 150 miles up
+
+    **Posted by**
+    %a{:href => "#"} Start Bootstrap
+    *on September 24, 2019*
+
+  %hr
+
+  .post-preview
+    %a{:href => "#"}
+      ## Man must explore, and this is exploration at its greatest
+
+    ### Problems look mighty small from 150 miles up
+
+    **Posted by**
+    %a{:href => "#"} Start Bootstrap
+    *on September 24, 2019*
+
+  %hr

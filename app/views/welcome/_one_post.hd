@@ -1,0 +1,9 @@
+.col-lg-8.col-md-10.mx-auto
+  .post-preview
+    = render 'main_text_for_one_post'
+
+  .post_preview
+
+    = render 'lists_for_open_post'
+
+  %hr
